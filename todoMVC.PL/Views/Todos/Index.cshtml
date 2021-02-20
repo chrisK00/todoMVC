@@ -1,12 +1,18 @@
 ﻿@model  IEnumerable<Todo>
+
 @{
     ViewData["Title"] = "Index";
 }
 
-<ul>
-    @foreach (var item in Model)
-    {
-        <li>@item.Title</li>
-    }
-</ul>
-
+<div class="container mt-5">
+    <div class="row d-flex justify-content-center">
+        <div class="col-6">
+            <ul class="list-group">
+                @foreach (var item in Model)
+                {
+                    <li class="list-group-item h4">@item.Title</li>
+                }
+            </ul>
+        </div>
+    </div>
+</div>
