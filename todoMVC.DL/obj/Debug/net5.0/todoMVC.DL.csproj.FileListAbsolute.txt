@@ -1,0 +1,15 @@
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\todoMVC.DL.deps.json
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\todoMVC.DL.dll
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\ref\todoMVC.DL.dll
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\todoMVC.DL.pdb
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.csprojAssemblyReference.cache
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.AssemblyInfoInputs.cache
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.AssemblyInfo.cs
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.csproj.CoreCompileInputs.cache
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.dll
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\ref\todoMVC.DL.dll
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.pdb
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\todoMVC.DL.runtimeconfig.json
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\bin\Debug\net5.0\todoMVC.DL.runtimeconfig.dev.json
+C:\Users\chrisk\source\repos\todoMVC\todoMVC.DL\obj\Debug\net5.0\todoMVC.DL.genruntimeconfig.cache
