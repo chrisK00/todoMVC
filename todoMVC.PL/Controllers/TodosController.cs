@@ -19,7 +19,6 @@ namespace todoMVC.PL.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            ViewBag.Title = "";
             return View(await _context.Todos.ToListAsync());
         }
 
